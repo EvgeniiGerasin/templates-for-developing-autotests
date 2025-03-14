@@ -1,0 +1,4 @@
+selenium==4.29.*
+pytest==8.3.*
+allure-pytest==2.13.*
+pytest-xdist==3.6.*
